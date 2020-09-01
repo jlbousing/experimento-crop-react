@@ -1,0 +1,19 @@
+{
+  "name": "experimento-crop-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.3f971cbffabf0148502ba00884afc683.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlbousing/experimento-crop-react.git"
+  },
+  "author": "Jorge L Bou-saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlbousing/experimento-crop-react/issues"
+  },
+  "homepage": "https://github.com/jlbousing/experimento-crop-react#readme"
+}
